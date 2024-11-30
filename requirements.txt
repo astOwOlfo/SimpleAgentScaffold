@@ -1,0 +1,7 @@
+beartype==0.14.1
+docker_py==1.10.6
+openai==1.55.3
+pathlib2==2.3.7.post1
+pytest==8.3.3
+tabulate==0.9.0
+tqdm==4.66.2
